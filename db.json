@@ -1,6 +1,10 @@
 {
   "data": [
-    {"data": "this is the first testAPI response"},
-    {"data": "this is the second testAPI response"},
-    ]
+    {
+      "data": "this is the first testAPI response"
+    },
+    {
+      "data": "this is the second testAPI response"
+    }
+  ]
 }

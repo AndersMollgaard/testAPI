@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+    {"data": "this is the first testAPI response"},
+    {"data": "this is the second testAPI response"},
+    ]
 }

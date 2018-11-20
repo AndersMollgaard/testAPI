@@ -1,5 +1,5 @@
 {
-  "data": [
+  "posts": [
     {
       "id": 1,
       "data": "Post 1"
@@ -9,15 +9,15 @@
       "data": "Post 2"
     }
   ],
-  "something": [
+  "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "data": "some comment 1",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment",
+      "data": "some comment 2",
       "postId": 1
     }
   ]

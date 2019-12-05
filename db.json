@@ -21,7 +21,10 @@
       "postId": 1
     }
   ],
-  "data": {
+  "with_data_key": {
+    "data": "This is some data"
+  },
+  "without_data_key": {
     "lol": "This is some data"
   }
 }

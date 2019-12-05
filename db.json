@@ -20,5 +20,6 @@
       "data": "some comment 2",
       "postId": 1
     }
-  ]
+  ],
+  "data": "This is some data"
 }
